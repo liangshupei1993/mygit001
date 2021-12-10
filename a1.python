@@ -38,4 +38,4 @@ spec:
       nodePort: 30080
   type: NodePort
   selector:
-    name: nginx
+    name: nginx--bug
